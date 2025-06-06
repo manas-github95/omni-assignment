@@ -57,7 +57,7 @@ If Again try to book then an error response will come like below.
 
 3. Get booking details
 
-Endpoint http://127.0.0.1:8000/bookings
+Endpoint POST / http://127.0.0.1:8000/bookings
 
 body :
 {

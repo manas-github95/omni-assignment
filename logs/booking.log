@@ -1,0 +1,3 @@
+ERROR 2025-06-06 12:33:46,955 /Users/manas/python/Django/assignment/fitness/booking/views.py book_class views manas@gmail.com is trying to book class twicw
+ERROR 2025-06-06 12:34:41,754 /Users/manas/python/Django/assignment/fitness/booking/views.py get_booking_details views email required
+ERROR 2025-06-06 12:34:59,071 /Users/manas/python/Django/assignment/fitness/booking/views.py get_booking_details views dfghsdhifb is trying to get bookings but there is no booking in the past.
